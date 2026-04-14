@@ -1,4 +1,3 @@
-HEAD
 footer {
   position: fixed;
   bottom: 0;
@@ -16,6 +15,7 @@ footer {
 .rodape {
   background-color: #222;
   color: white;
+  padding: 20px;
 }
 
 /* Container em colunas */
@@ -30,7 +30,7 @@ footer {
   margin-bottom: 10px;
 }
 
-/* Listas */
+/* Lista */
 .rodape ul {
   list-style: none;
   padding: 0;
@@ -55,161 +55,6 @@ footer {
   text-align: center;
   margin-top: 20px;
   font-size: 14px;
-}/* Rodapé */
-
-#china {
-  position: fix ed;
-  bottom: 0;
-  left: 0;
-
-  width: 100%;
-  background-color: #222;
-  color: white;
-  padding: 20px;
-
-  text-align: center;
-}
-=======
-<<<<<<< HEAD
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-
-  width: 100%;
-  background-color: #222;
-  color: white;
-  padding: 20px;
-
-  text-align: center;
 }
 
-/* Rodapé interno */
-.rodape {
-  background-color: #222;
-  color: white;
-}
 
-/* Container em colunas */
-.container {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
-
-/* Títulos */
-.rodape h3 {
-  margin-bottom: 10px;
-}
-
-/* Listas */
-.rodape ul {
-  list-style: none;
-  padding: 0;
-}
-
-.rodape ul li {
-  margin-bottom: 5px;
-}
-
-/* Links */
-.rodape a {
-  color: white;
-  text-decoration: none;
-}
-
-.rodape a:hover {
-  text-decoration: underline;
-}
-
-/* Copyright */
-.copy {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 14px;
-}/* Rodapé */
-=======
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-
-  width: 100%;
-  background-color: #222;
-  color: white;
-  padding: 20px;
-
-  text-align: center;
-}
-
-/* Rodapé interno */
-.rodape {
-  background-color: #222;
-  color: white;
-}
-
-/* Container em colunas */
-.container {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
-
-/* Títulos */
-.rodape h3 {
-  margin-bottom: 10px;
-}
-
-/* Listas */
-.rodape ul {
-  list-style: none;
-  padding: 0;
-}
-
-.rodape ul li {
-  margin-bottom: 5px;
-}
-
-/* Links */
-.rodape a {
-  color: white;
-  text-decoration: none;
-}
-
-.rodape a:hover {
-  text-decoration: underline;
-}
-
-/* Copyright */
-.copy {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 14px;
-}/* Rodapé */
-
-#main-content
-{
- 
-
-  width: 100%;
-  background-color: #222;
-  padding: 20px;
-color: white;
-  text-align: center;
-}
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-
-  width: 100%;
-  background-color: #222;
-  color: white;
-  padding: 20px;
-
-  text-align: center;
-}
-img {
-  width: 100px;
-  height: auto;
-}
