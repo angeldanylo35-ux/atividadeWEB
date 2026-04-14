@@ -1,4 +1,5 @@
 footer {
+<<<<<<< HEAD
   position: fixed;
   bottom: 0;
   left: 0;
@@ -12,6 +13,12 @@ footer {
 }
 
 /* Rodapé interno */
+=======
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+>>>>>>> 618534656e8f76323d16d432a4946d9f46b4db0a
 .rodape {
   background-color: #222;
   color: white;
