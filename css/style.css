@@ -90,3 +90,10 @@ footer {
 img {
   width: 100px;
   height: auto;
+}
+#cabeçalho{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+}
